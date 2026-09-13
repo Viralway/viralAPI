@@ -161,3 +161,7 @@ Full fields are on `video.as_dict` (plays, likes, caption, author, hashtags, …
 - **EmptyResponseException** — TikTok is treating the client as a bot. A residential proxy often helps. ProxyProviders: `create_sessions(proxy_provider=...)`. See [`examples/proxy_provider_example.py`](examples/proxy_provider_example.py).
 - **Browser has no attribute** — run `python3 -m playwright install`. If it still fails, use the [playwright-python](https://github.com/microsoft/playwright-python) quickstart.
 - **Got a Coroutine** — most methods are async; `await` them.
+
+## Credits
+- @ [Viralway](https://viralway.co)
+- @ [Microsoft Playwright](https://playwright.dev)
