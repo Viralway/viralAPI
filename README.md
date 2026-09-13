@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="imgs/viralway.png" alt="Viral API Logo" width="170"/>
+  <img src="https://raw.githubusercontent.com/Viralway/viralAPI/main/imgs/viralway.png" alt="Viral API Logo" width="170"/>
 </p>
 
 <div align="center">
